@@ -3,6 +3,7 @@ FullContact
 
 It includes Python Library for FullContact API
 Unlike from the library suggested on FullContact page this supports POST requests for Person Batch Requests. 
+For time being I have only implemented Lookup by emails functionality.
 
 Usage
 ===========
