@@ -28,9 +28,10 @@ For Single Request
 Response Data
 ===========
 The data structure of response will be
+
 For Batch Request
 
-    {<email from email_list> : <Person Response Data>}
+    {<email_address> : <Person Response Data>}
 
 For Single Request
 
