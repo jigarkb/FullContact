@@ -5,7 +5,7 @@ It includes a simple Python interface for FullContact API
 Unlike from the library suggested on FullContact page this supports POST requests for Person Batch Requests. 
 For time being I have only implemented Lookup by emails functionality for Batch Processing.
 
-The Catch about the code is that you can have email list of more than 20 emails and my code will split it into 20 email chunk and process them separately and returns a combined one response.
+The Catch about the code is that you can have email list of more than 20 emails and my code will split it into 20 email chunk and process them separately and returns a combined easily readable and accessible one response.
 
 Usage
 ===========
